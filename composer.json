@@ -1,0 +1,15 @@
+{
+    "name": "brown/mvc",
+    "autoload": {
+        "psr-4": {
+            "Router\\": "routes/",
+            "Controllers\\":"Controllers/"
+        }
+    },
+    "authors": [
+        {
+            "name": "abaallogo"
+        }
+    ],
+    "require": {}
+}

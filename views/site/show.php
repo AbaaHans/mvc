@@ -1,0 +1,1 @@
+<h1> page N° <?= $params['id'] ?></h1>
